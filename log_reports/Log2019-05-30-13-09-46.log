@@ -1,0 +1,4 @@
+2019-05-30 13:09:56,270 - DEBUG -  Login[line:98] - 执行用例：用户名后有空格
+2019-05-30 13:09:59,655 - DEBUG -  Login[line:114] - test05执行结果：失败
+2019-05-30 13:09:59,655 - DEBUG -  Login[line:115] - 登录成功
+2019-05-30 13:09:59,974 - DEBUG -  common_method.common_def[line:46] - Had take screenshot and save to folder : /picture
